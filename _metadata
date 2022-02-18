@@ -1,0 +1,11 @@
+{
+  "version" : "1.0",
+  "author" : "patted man",
+  "tags" : "Miscellaneous",
+  "description" : "replaces all damage numbers with punch face gif\n\nmade in about 20 minutes\n\nworks with damage numbers from :\n[list]\n[*]Elithian Races\n[*]Project Knightfall\n[*]The Starforge\n[*]Frackin' Universe\n[*]RPG Growth\n[*]Betabound\n[*]Arcana\n[/list]\ntell me about mods ive missed i Will add them.\n\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar",
+  "name" : "pat_punchface",
+  "friendlyName" : "Better Damage Numbers",
+  "steamContentId" : "2756781365",
+  "link" : "steam://url/CommunityFilePage/2756781365",
+  "includes" : ["Elithian_Races_Mod", "Project Knightfall", "The Starforge v1.0", "FrackinUniverse", "RPG_Growth", "XRC_BETA_STARBOUND", "Arcana"]
+}

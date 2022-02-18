@@ -1,0 +1,31 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/definition/type",
+		"value" : "animated"
+	},
+	{
+		"op" : "add",
+		"path" : "/definition/animation",
+		"value" : "/particles/damagenumbers/pat_punchface.animation"
+	},
+	{
+		"op" : "remove",
+		"path" : "/definition/text"
+	},
+	{
+		"op" : "replace",
+		"path" : "/definition/size",
+		"value" : 0.1
+	},
+	{
+		"op" : "replace",
+		"path" : "/definition/timeToLive",
+		"value" : 1
+	},
+	{
+		"op" : "replace",
+		"path" : "/definition/destructionTime",
+		"value" : 1
+	}
+]
